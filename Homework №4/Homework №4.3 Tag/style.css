@@ -1,0 +1,28 @@
+* {
+    background-color: rgb(250, 249, 249);
+    font-family: sans-serif;
+}
+
+h3 {
+    padding-bottom: 0.5%;
+}
+
+dl {
+    padding-bottom: 0.5%;
+}
+
+li {
+    line-height: 1.5
+}
+
+.color_1 {
+    color: grey;
+}
+
+.color_2 {
+    color: blue;
+}
+
+a:link {
+        text-decoration: none;
+}
